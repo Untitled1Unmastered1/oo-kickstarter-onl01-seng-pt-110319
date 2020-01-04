@@ -1,4 +1,3 @@
-require 'pry'
 class Backer 
   attr_reader :backed_projects, :name 
   attr_accessor :project
